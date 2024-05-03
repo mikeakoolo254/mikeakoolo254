@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at RTI, driven by a curiosity for technology
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nestjs,typescript,mongodb,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
